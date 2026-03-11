@@ -5,9 +5,11 @@ Program Studi : Teknik Informatika
 ## hobi
 - Wrestling
 - Bjj
-## minat di bidang
-- Web
-- Jaringan 
-- Pengembangan Software dan Hardware
+## bahasa pemrogam yang ingin di pelajari
+- JavaScript
+- Php
+- Html
+- css
+- Ruby
 ## Target Karir
-- Militer
+- saya ingin menjadi seorang programmer dan IT Support yang bertugas di bidang pengembangangan sistem informasi dan mengelola server pada jaringan komputer di bidang pertahanan militer

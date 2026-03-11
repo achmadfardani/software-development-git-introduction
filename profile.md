@@ -1,12 +1,13 @@
-# Profile Mahasiswa
-
-Nama : Dani Garciaa  
+# profil Mahasiswa
+Nama          : Achmad Fardani
+Npm           : 2313020081  
 Program Studi : Teknik Informatika  
-
-## Tentang Saya
-Saya adalah mahasiswa yang sedang mempelajari pengembangan perangkat lunak dan penggunaan Git serta GitHub.
-
-## Minat
-- Pemrograman
-- Teknologi
-- Pengembangan Software
+## hobi
+- Wrestling
+- Bjj
+## minat di bidang
+- Web
+- Jaringan 
+- Pengembangan Software dan Hardware
+## Target Karir
+- Militer
